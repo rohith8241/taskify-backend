@@ -5,6 +5,8 @@
 
 2. DB used postgresSql: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
+3. Postman collection: https://www.postman.com/spaceflight-geoscientist-24424966/workspace/my-workspace/collection/40888071-974440ec-59f3-4210-abc6-037749c8a33b?action=share&creator=40888071
+
 
 ## Run migrations in db directory to create tables in database
 
